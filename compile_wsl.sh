@@ -1,0 +1,1 @@
+g++ -static -pthread -std=c++11 -O3 -o "./bin/jsonserver" "./example/jsonserver.cpp" -I"./src" -I"./src/thirdparty"
